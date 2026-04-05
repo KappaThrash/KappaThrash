@@ -7,15 +7,12 @@
 
 - 📫 How to reach me **danielkuhin@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 ## <div align="center"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b> </div>
 <h4 align="left">🤖 Programming Languages, Frameworks, Modules & Tools:</h4>
 
 ![Java](https://img.shields.io/badge/Java⭐-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style-for-the-badge&logo=springboot&logoColor=fff)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot⭐-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
 ![Lua](https://img.shields.io/badge/Lua%20⭐-007ACC?style=for-the-badge&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
