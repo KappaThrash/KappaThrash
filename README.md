@@ -24,4 +24,6 @@
 
 ![Roblox](https://img.shields.io/badge/Roblox%20⭐-000000?style=for-the-badge&logo=roblox&logoColor=white)
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kappathrash&label=Profile%20views&color=0e75b6&style=flat" alt="kappathrash" /> </p>
+
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kappathrash&show_icons=true&locale=en" alt="kappathrash" /></p>-->
