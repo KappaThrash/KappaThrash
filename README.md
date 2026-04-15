@@ -10,7 +10,7 @@
 <h4 align="left">🤖 Programming Languages, Frameworks, Modules & Tools:</h4>
 
 ![Java](https://img.shields.io/badge/Java⭐-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot⭐-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
+![Spring](https://img.shields.io/badge/spring⭐-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua%20⭐-007ACC?style=for-the-badge&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,6 +19,10 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker%20📡-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+<h4 align="left">💾 Databases:</h4>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
 <h4 align="left">⚙️ Game Engines:</h4>
 
