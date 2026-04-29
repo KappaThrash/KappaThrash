@@ -27,7 +27,6 @@
 
 ![Roblox](https://img.shields.io/badge/Roblox%20⭐-000000?style=for-the-badge&logo=roblox&logoColor=white)
 
----
 
 ## 🚀 Projects
 
@@ -53,6 +52,5 @@ Gerenciamento de agendamentos com persistência em PostgreSQL, versionamento de 
 
 `Java` `Spring Boot` `PostgreSQL` `Flyway` `JPA/Hibernate`
 
----
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kappathrash&label=Profile%20views&color=0e75b6&style=flat" alt="kappathrash" /> </p>
