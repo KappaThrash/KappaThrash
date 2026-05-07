@@ -43,7 +43,7 @@ API REST em Java com Spring Boot para processamento de transações financeiras 
 
 Plataforma de pagamentos simplificada com dois tipos de usuário (comuns e lojistas). Fluxo de transferência com validação de saldo, rollback transacional em falhas e consulta a autorizador externo. Validação de CPF/CNPJ/e-mail, restrição por tipo de usuário e arquitetura em camadas (Controller, Service, Repository, DTO). Containerizado com Docker Compose, healthcheck e rede isolada.
 
-`Java` `Spring Boot` `Docker` `PostgreSQL` `JPA/Hibernate`
+`Java` `Spring Boot` `Docker` `PostgreSQL` `JPA/Hibernate` `JUnit`
 
 ---
 
@@ -51,7 +51,7 @@ Plataforma de pagamentos simplificada com dois tipos de usuário (comuns e lojis
 
 Gerenciamento de agendamentos com persistência em PostgreSQL, versionamento de banco via Flyway e ORM com JPA/Hibernate. CRUD completo com endpoints de criação, consulta por ID/receiver, exclusão e alteração de status. Identificadores UUID, status HTTP corretos (200, 201, 404, 422) e arquitetura em camadas.
 
-`Java` `Spring Boot` `PostgreSQL` `Flyway` `JPA/Hibernate`
+`Java` `Spring Boot` `PostgreSQL` `Flyway` `JPA/Hibernate` `JUnit`
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kappathrash&label=Profile%20views&color=0e75b6&style=flat" alt="kappathrash" /> </p>
