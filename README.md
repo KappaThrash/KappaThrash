@@ -41,7 +41,8 @@ API REST em Java com Spring Boot para processamento de transações financeiras 
 
 ### 💸 Desafio PicPay — PicPay Simplificado · [KappaThrash/picpay](https://github.com/KappaThrash/picpay)
 
-Plataforma de pagamentos simplificada com dois tipos de usuário (comuns e lojistas). Fluxo de transferência com validação de saldo, rollback transacional em falhas e consulta a autorizador externo. Validação de CPF/CNPJ/e-mail, restrição por tipo de usuário e arquitetura em camadas (Controller, Service, Repository, DTO). Containerizado com Docker Compose, healthcheck e rede isolada.
+API REST simulando plataforma de pagamentos com dois tipos de usuário (comum e lojista), transferências com validação de saldo, reversão automática em falhas e integração com autorizador 
+externo. Validações de CPF/CNPJ/e-mail, tratamento centralizado de erros e deploy com Docker Compose,  healthcheck e rede isolada. Testes unitários e de integração com JUnit, Mockito e MockMvc. CI/CD com GitHub Actions. Arquitetura em camadas: Controller, Service, Repository, DTO
 
 `Java` `Spring Boot` `Docker` `PostgreSQL` `JPA/Hibernate` `JUnit`
 
