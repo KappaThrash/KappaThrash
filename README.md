@@ -31,20 +31,20 @@
 
 ## 🚀 Projetos:
 
+### 💸 Desafio PicPay — PicPay Simplificado · [KappaThrash/picpay](https://github.com/KappaThrash/picpay)
+
+API REST simulando plataforma de pagamentos com dois tipos de usuário (comum e lojista), transferências com validação de saldo, reversão automática em falhas e integração com autorizador 
+externo e arquitetura de microserviços utilizando RabbitMQ para Microserviço de Notificação. Validações de CPF/CNPJ/e-mail, tratamento centralizado de erros e deploy com Docker Compose,  healthcheck e rede isolada. Testes unitários e de integração com JUnit, Mockito e MockMvc. CI/CD com GitHub Actions. Arquitetura em camadas: Controller, Service, Repository, DTO
+
+`Java` `Spring Boot` `Docker` `PostgreSQL` `JPA/Hibernate` `JUnit`
+
+---
+
 ### 🏦 Desafio Itaú — API de Transações · [KappaThrash/itau-desafio](https://github.com/KappaThrash/itau-desafio)
 
 API REST em Java com Spring Boot para processamento de transações financeiras em memória. Endpoints CRUD com validações (valores não negativos, datas não futuras) e cálculo de estatísticas em tempo real (count, sum, avg, min, max) com intervalo configurável de 60s. Tratamento de erros via status HTTP (201, 200, 400, 422).
 
 `Java` `Spring Boot` `REST API` `In-Memory`
-
----
-
-### 💸 Desafio PicPay — PicPay Simplificado · [KappaThrash/picpay](https://github.com/KappaThrash/picpay)
-
-API REST simulando plataforma de pagamentos com dois tipos de usuário (comum e lojista), transferências com validação de saldo, reversão automática em falhas e integração com autorizador 
-externo. Validações de CPF/CNPJ/e-mail, tratamento centralizado de erros e deploy com Docker Compose,  healthcheck e rede isolada. Testes unitários e de integração com JUnit, Mockito e MockMvc. CI/CD com GitHub Actions. Arquitetura em camadas: Controller, Service, Repository, DTO
-
-`Java` `Spring Boot` `Docker` `PostgreSQL` `JPA/Hibernate` `JUnit`
 
 ---
 
