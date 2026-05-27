@@ -36,7 +36,7 @@
 API REST simulando plataforma de pagamentos com dois tipos de usuário (comum e lojista), transferências com validação de saldo, reversão automática em falhas e integração com autorizador 
 externo e arquitetura de microserviços utilizando RabbitMQ para Microserviço de Notificação. Validações de CPF/CNPJ/e-mail, tratamento centralizado de erros e deploy com Docker Compose,  healthcheck e rede isolada. Testes unitários e de integração com JUnit, Mockito e MockMvc. CI/CD com GitHub Actions. Arquitetura em camadas: Controller, Service, Repository, DTO
 
-`Java` `Spring Boot` `Docker` `PostgreSQL` `JPA/Hibernate` `JUnit`
+`Java` `Spring Boot` `Docker` `PostgreSQL` `RabbitMQ` `JPA/Hibernate` `JUnit`
 
 ---
 
