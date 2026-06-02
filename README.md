@@ -39,10 +39,9 @@
 
 ### 💸 Desafio PicPay — PicPay Simplificado · [KappaThrash/picpay](https://github.com/KappaThrash/picpay)
 
-API REST simulando plataforma de pagamentos com dois tipos de usuário (comum e lojista), transferências com validação de saldo, reversão automática em falhas e integração com autorizador 
-externo e arquitetura de microserviços utilizando RabbitMQ para Microserviço de Notificação. Validações de CPF/CNPJ/e-mail, tratamento centralizado de erros e deploy com Docker Compose,  healthcheck e rede isolada. Testes unitários e de integração com JUnit, Mockito e MockMvc. CI/CD com GitHub Actions. Arquitetura em camadas: Controller, Service, Repository, DTO
+API REST em Java/Spring Boot para simulação de plataforma de pagamentos, com transferências entre usuários, integração com autorizador externo e arquitetura de microsserviços utilizando RabbitMQ para notificações assíncronas. Deploy em AWS EC2 com Docker e Docker Compose, infraestrutura provisionada via Terraform e automações em Bash Script. Implementação de testes unitários e de integração (JUnit, Mockito e MockMvc), CI/CD com GitHub Actions e arquitetura em camadas (Controller, Service, Repository e DTO).
 
-`Java` `Spring Boot` `Docker` `PostgreSQL` `RabbitMQ` `JPA/Hibernate` `JUnit`
+`Java` `Spring Boot` `Docker` `AWS` `Terraform` `PostgreSQL` `RabbitMQ` `JPA/Hibernate` `JUnit`
 
 ---
 
