@@ -9,6 +9,8 @@
 
 ![Java](https://img.shields.io/badge/Java⭐-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring⭐-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![C#](https://custom-icon-badges.demolab.com/badge/C%23⭐-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET⭐-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)
 ![Junit](https://img.shields.io/badge/JUnit5⭐-25A162.svg?style=for-the-badge&logo=JUnit5&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ⭐-FF6600.svg?style=for-the-badge&logo=RabbitMQ&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua%20⭐-007ACC?style=for-the-badge&logo=lua&logoColor=white)
