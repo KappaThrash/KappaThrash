@@ -9,24 +9,23 @@
 
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23⭐-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET⭐-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)
-![Java](https://img.shields.io/badge/Java⭐-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring⭐-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Junit](https://img.shields.io/badge/JUnit5⭐-25A162.svg?style=for-the-badge&logo=JUnit5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![JWT](https://img.shields.io/badge/json%20web%20tokens⭐-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ⭐-FF6600.svg?style=for-the-badge&logo=RabbitMQ&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua%20⭐-007ACC?style=for-the-badge&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions⭐-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker%20⭐-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)
 
 <h4 align="left">☁️ Cloud:</h4>
 
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS⭐-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white)](#)
-[![Terraform](https://img.shields.io/badge/Terraform⭐-844FBA?style=for-the-badge&logo=terraform&logoColor=fff)](#)
+![Render](https://img.shields.io/badge/render⭐-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel⭐-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=fff)](#)
 
 <h4 align="left">💾 Databases:</h4>
 
